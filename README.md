@@ -48,8 +48,8 @@ src/
 
 ### 1. Create a ROS 2 Humble workspace
 ```bash
-mkdir -p ~/jaco2_ws/src
-cd ~/jaco2_ws/src
+mkdir -p ~/jaco2_ws
+cd ~/jaco2_ws/
 ```
 
 ### 2. Clone this repository
@@ -59,7 +59,7 @@ git clone https://github.com/d-e-m/kinova-jaco2-moveit2-dev.git
 
 ### 3. Install dependencies using rosdep
 ```bash
-cd ~/jaco2_ws
+cd ~/jaco2_ws/kinova-jaco2-moveit2-dev
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
 ```
