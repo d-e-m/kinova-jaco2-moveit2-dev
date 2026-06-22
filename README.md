@@ -91,11 +91,11 @@ This will start:
 
 ## 🎥 Demo Video  
 ```html
-<video src="media/jaco2_robot_arm_demo.mp4" controls width="600"></video>
+<video src="/media/jaco2_robot_arm_demo.mp4" controls width="600"></video>
 ```
 
 ```html
-<video src="media/finger_move.mp4" controls width="600"></video>
+<video src="/media/finger_move.mp4" controls width="600"></video>
 ```
 
 
