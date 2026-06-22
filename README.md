@@ -1,3 +1,7 @@
+
+
+
+
 # 📘 **README.md — MoveIt 2 Dev Kit for Kinova Jaco2 (ROS 2 Humble)**
 
 ## 🦾 Overview
@@ -90,13 +94,12 @@ This will start:
 ---
 
 ## 🎥 Demo Video  
-```html
-<video src="/media/jaco2_robot_arm_demo.mp4" controls width="600"></video>
-```
 
-```html
-<video src="/media/finger_move.mp4" controls width="600"></video>
-```
+https://github.com/user-attachments/assets/36de55c5-b98b-41ab-8464-9de843427354
+
+
+
+https://github.com/user-attachments/assets/5c6b0d39-b42c-4062-99b6-0db2f1e3910c
 
 
 ---
