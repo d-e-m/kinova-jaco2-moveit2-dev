@@ -35,7 +35,7 @@ Concepts and development approach inspired by:
 ## 📂 Repository Structure
 
 ```
-jaco2_ws/
+src/
 ├── jaco2_robot_description/        # URDF, meshes, robot description
 ├── jaco2_robot_moveit/            # MoveIt 2 configuration package
 ├── jaco2_robot_control/            # Launch files and RViz configs
