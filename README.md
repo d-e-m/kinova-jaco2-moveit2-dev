@@ -38,7 +38,7 @@ Concepts and development approach inspired by:
 src/
 ├── jaco2_robot_description/        # URDF, meshes, robot description
 ├── jaco2_robot_moveit/            # MoveIt 2 configuration package
-├── jaco2_robot_control/            # Launch files and RViz configs
+├── jaco2_robot_control/            # Launch files and controller configs
 └── README.md
 ```
 
@@ -54,7 +54,7 @@ cd ~/jaco2_ws/src
 
 ### 2. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/d-e-m/kinova-jaco2-moveit2-dev.git
 ```
 
 ### 3. Install dependencies using rosdep
